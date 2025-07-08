@@ -3,6 +3,11 @@ Quick Setup: Download, Install, or Reinstall Microsoft 365 Already Purchased or 
 
 Have you recently bought Microsoft Office 365 or the new Office 2024 and are unsure how to proceed with setup on your PC or Mac? Whether you're setting it up for the first time, changing devices, or troubleshooting, this guide will help you **download Office 365 Already Purchased**, **Install Office 365 Already Purchased**, or even **reinstall Office 365 Already Purchased** easily.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://office365setup.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Office Setup</a>
+   </div>
 For users who already own a valid subscription or license, accessing your productivity suite is a matter of signing in with your Microsoft account and following a few simple steps. From email configuration to OneDrive sync and application use, Microsoft Office 365 and Office 2024 are packed with features—once you install them correctly.
 
 In this article, we’ll explain how to:
